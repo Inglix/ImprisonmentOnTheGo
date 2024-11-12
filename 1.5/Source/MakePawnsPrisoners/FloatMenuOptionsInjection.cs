@@ -34,7 +34,7 @@ namespace MakePawnsPrisoners
             }
             var pawn = (Pawn)t;
             var job = JobOnThing(selPawn, pawn);
-            var floatMenuOption = new FloatMenuOption("Imprison_floatMenu".Translate(pawn.LabelShort), delegate
+            var floatMenuOption = new FloatMenuOption("Inglix.FloatMenuLabel".Translate(pawn.LabelShort), delegate
             {
                 selPawn.jobs.TryTakeOrderedJob(job, JobTag.Misc);
             });
