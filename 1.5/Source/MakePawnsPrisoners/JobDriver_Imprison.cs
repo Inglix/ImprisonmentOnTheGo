@@ -32,7 +32,8 @@ namespace MakePawnsPrisoners
                     Victim.Faction?.Notify_MemberCaptured(Victim, pawn.Faction);
                     if (job.def != ActionDefOf.ImprisonPawn) return;
                     Victim.guest.CapturedBy(Faction.OfPlayer, pawn);
-                    ActionDefOf.ShackleClang.PlayOneShot(new TargetInfo(Victim.Position, thing.Map));
+                    if (MakePawnsPrisoners.settings.PlayShackleSound)
+                        ActionDefOf.ShackleClang.PlayOneShot(new TargetInfo(Victim.Position, thing.Map));
                 }
             };
             yield return Toils_Reserve.Release(TargetIndex.A);

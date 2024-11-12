@@ -2,6 +2,5 @@ D:\Games\Steam\steamapps\common\RimWorld\Mods\ImprisonmentOnTheGo\1.5\Assemblies
 D:\Games\Steam\steamapps\common\RimWorld\Mods\ImprisonmentOnTheGo\1.5\Assemblies\MakePawnsPrisoners.pdb
 D:\Games\Steam\steamapps\common\RimWorld\Mods\ImprisonmentOnTheGo\1.5\Source\MakePawnsPrisoners\obj\Debug\MakePawnsPrisoners.csproj.AssemblyReference.cache
 D:\Games\Steam\steamapps\common\RimWorld\Mods\ImprisonmentOnTheGo\1.5\Source\MakePawnsPrisoners\obj\Debug\MakePawnsPrisoners.csproj.CoreCompileInputs.cache
-D:\Games\Steam\steamapps\common\RimWorld\Mods\ImprisonmentOnTheGo\1.5\Source\MakePawnsPrisoners\obj\Debug\MakePawn.D22B21C6.Up2Date
 D:\Games\Steam\steamapps\common\RimWorld\Mods\ImprisonmentOnTheGo\1.5\Source\MakePawnsPrisoners\obj\Debug\MakePawnsPrisoners.dll
 D:\Games\Steam\steamapps\common\RimWorld\Mods\ImprisonmentOnTheGo\1.5\Source\MakePawnsPrisoners\obj\Debug\MakePawnsPrisoners.pdb

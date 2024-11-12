@@ -39,6 +39,8 @@
               "version": "[1.5.4243, )"
             },
             "Lib.Harmony": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[2.3.3, )"
             }
