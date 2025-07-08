@@ -1,0 +1,29 @@
+# Ignore build outputs
+1.*/Source/MakePawnsPrisoners/bin/
+1.*/Source/MakePawnsPrisoners/obj/
+
+# Ignore Rider/VS/IDE files
+*.user
+*.suo
+*.userprefs
+*.csproj.DotSettings*
+*.vs/
+
+# Ignore logs and temp files
+*.log
+*.tmp
+
+# Ignore package manager files
+*.nuget/
+*.cache
+*.db
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore zip archives
+*.zip
+
+# Ignore DirectDraw Surface textures
+*.dds
