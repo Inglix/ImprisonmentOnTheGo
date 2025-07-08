@@ -1,6 +1,8 @@
 # Ignore build outputs
 1.*/Source/MakePawnsPrisoners/bin/
 1.*/Source/MakePawnsPrisoners/obj/
+Source/MakePawnsPrisoners/bin/
+Source/MakePawnsPrisoners/obj/
 
 # Ignore Rider/VS/IDE files
 *.user
