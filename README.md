@@ -23,7 +23,9 @@ The original author of this mod, which I have enjoyed using for many years. Orig
 ### [Thirite](https://gitlab.com/Thirite), [UnlimitedHugs](https://steamcommunity.com/id/UnlimitedHugs), and [Haplo_X1](https://steamcommunity.com/id/Haplo_X1)
 AgentBlac attributed some of their learning to examining code written by these mod authors.
 
-## License
+## License 
+![by-nc-sa](/About/by-nc-sa.png)
+
 Imprisonment On The Go! (Continued) © 2024 by Inglix is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 
 
 This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms.
